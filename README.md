@@ -1,4 +1,4 @@
-# Astral Shooter – Jeu de tir gravitationnel (Pygame)
+# Astral Shooter - Pygame
 
 Ce projet est un jeu de tir en Pygame où le joueur contrôle un canon pour détruire des météorites à l’aide de tirs à trajectoire parabolique.  
 L'angle est contrôlé avec la souris, la puissance dépend de la durée d’appui sur le clic.  
